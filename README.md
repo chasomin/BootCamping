@@ -1,4 +1,5 @@
-<img src="https://file.notion.so/f/f/cc0ffd51-4ef9-4d9a-93db-32e97a65a422/e68a349b-9a97-4792-8ef3-7e8769354479/image_1-2.png?id=be04b65d-373c-4bdf-a15c-b2770d9a5fd6&table=block&spaceId=cc0ffd51-4ef9-4d9a-93db-32e97a65a422&expirationTimestamp=1716573600000&signature=vLqPx7ee8eD1mhCPJeUQy6JGSWFe8Q0iU8-YPW8ycHU&downloadName=image+1-2.png" width=100, height=100>
+<img src="https://github.com/chasomin/BootCamping/assets/114223423/1a51d1af-87d3-41df-a0f4-12f96c17673d" width=100, height=100>
+
 
 # 부트캠핑
 
