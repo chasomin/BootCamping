@@ -57,8 +57,6 @@ iOS 16.0
 
 ## **기술 설명**
  
- **Combine**을 사용한 비동기 처리
-
  enum을 활용한 Error case 분리로 사용자에게 상황에 맞는 Error 메시지 전달
 
  **Identifiable** 채택으로 List, ForEach에서 데이터 항목을 고유하게 식별하여 성능 최적화
@@ -69,9 +67,7 @@ iOS 16.0
 
  **@FocusState**를 사용하여 TextField 간 이동 / 키보드 Dismiss 구현
 
- **@AppStorage**를 사용한 간단한 데이터 저장하고 UI 자동 업데이트
-
- 간단한 UI 관련된 데이터를 **@AppStorage**로 저장하여 자동으로 UI 업데이트
+ 간단한 UI 관련 데이터를 **@AppStorage**로 저장하여 자동으로 UI 업데이트
 
  **CustomModifier**를 사용하여 코드 재사용성과 가독성 향상
 
